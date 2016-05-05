@@ -1,0 +1,12 @@
+c:\users\tran.nguyen\documents\visual studio 2015\Projects\Assignment\Assignment\bin\Debug\Assignment.exe.config
+c:\users\tran.nguyen\documents\visual studio 2015\Projects\Assignment\Assignment\bin\Debug\Assignment.exe
+c:\users\tran.nguyen\documents\visual studio 2015\Projects\Assignment\Assignment\bin\Debug\Assignment.pdb
+c:\users\tran.nguyen\documents\visual studio 2015\Projects\Assignment\Assignment\bin\Debug\HtmlAgilityPack.dll
+c:\users\tran.nguyen\documents\visual studio 2015\Projects\Assignment\Assignment\bin\Debug\HtmlAgilityPack.pdb
+c:\users\tran.nguyen\documents\visual studio 2015\Projects\Assignment\Assignment\bin\Debug\HtmlAgilityPack.xml
+c:\users\tran.nguyen\documents\visual studio 2015\Projects\Assignment\Assignment\obj\Debug\Assignment.csprojResolveAssemblyReference.cache
+c:\users\tran.nguyen\documents\visual studio 2015\Projects\Assignment\Assignment\obj\Debug\Assignment.Form1.resources
+c:\users\tran.nguyen\documents\visual studio 2015\Projects\Assignment\Assignment\obj\Debug\Assignment.Properties.Resources.resources
+c:\users\tran.nguyen\documents\visual studio 2015\Projects\Assignment\Assignment\obj\Debug\Assignment.csproj.GenerateResource.Cache
+c:\users\tran.nguyen\documents\visual studio 2015\Projects\Assignment\Assignment\obj\Debug\Assignment.exe
+c:\users\tran.nguyen\documents\visual studio 2015\Projects\Assignment\Assignment\obj\Debug\Assignment.pdb
